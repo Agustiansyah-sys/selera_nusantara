@@ -98,16 +98,20 @@ selera-nusantara/
    - Letakkan semua file di folder `htdocs/selera-nusantara/`
    - Jalankan `phpmyadmin`, buat database baru, dan **import `sql/selera_nusantara.sql`**
 3. Buka browser:
-   - Admin login: [http://localhost/selera-nusantara/login_admin.php](http://localhost/selera-nusantara/login_admin.php)
-   - Konsumen: [http://localhost/selera-nusantara/login_konsumen.php](http://localhost/selera-nusantara/login_konsumen.php)
+   - Admin login dan konsumen login : http://localhost:3000/src/index.php
 
 ---
 
 ## 📽️ Video Demo
 
-🔗 [Link YouTube Demo](https://youtu.be/xxxxxxxx) ← *Upload videomu di sini*
+🔗 [Link YouTube Demo](https://youtu.be/OrWlHr5G95w?si=L2v7dP6Cvx1iCsWK) ← 
 
 ---
+
+## Hosting
+[Link Hosting] (http://seleranusantara1.web.id)
+admin : username: admin  password :admin123
+konsumen : hanya masukkan nama
 
 ## 🧑‍🎓 Dibuat oleh:
 **Mira Agustiansyah (202312033)**  
